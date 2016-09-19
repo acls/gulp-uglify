@@ -1,5 +1,5 @@
 {
-  "name": "gulp-uglify",
+  "name": "gulp-uglify-harmony",
   "description": "Minify files with UglifyJS.",
   "version": "2.0.0",
   "author": "Terin Stock <terinjokes@gmail.com>",
