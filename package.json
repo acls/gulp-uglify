@@ -10,7 +10,7 @@
     "lodash": "^4.13.1",
     "make-error-cause": "^1.1.1",
     "through2": "^2.0.0",
-    "uglify-js": "github:mishoo/UglifyJS2#harmony",
+    "uglify-js": "github:mishoo/UglifyJS2#13ed445607125a045e979df8abaa3d02fee9eb24",
     "uglify-save-license": "^0.4.1",
     "vinyl-sourcemaps-apply": "^0.2.0"
   },
